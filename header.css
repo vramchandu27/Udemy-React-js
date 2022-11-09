@@ -1,0 +1,21 @@
+.content{
+    font-weight: bolder;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.box:hover{
+    border-radius: 8px;
+    background-color: rgb(245, 199, 158);
+}
+
+.box:active{
+    opacity: 0.8;
+}

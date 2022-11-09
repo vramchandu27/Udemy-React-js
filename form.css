@@ -1,0 +1,24 @@
+.text{
+    background-color: sandybrown;
+    color: black;
+    height: fit-content;
+    width: fit-content;
+    border: 50px solid sandybrown;
+    border-radius: 20px;
+    text-align: center;
+    /* margin-left: 300px; */
+    margin-left: 580px;
+    margin-top: 40px;
+}
+
+button{
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.7;
+}
+
+input{
+    border-radius: 8px;
+}
